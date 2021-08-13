@@ -1,5 +1,5 @@
 ## Autodidactic Neurosurgeon Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning
-#### Autodidactic Neurosurgeon (ANS) is an online learning module to automatically learn the optimal DNN partition point on the fly. The details of ANS are in our WWW21 paper "Autodidactic Neurosurgeon Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning".
+Autodidactic Neurosurgeon (ANS) is an online learning module to automatically learn the optimal DNN partition point on the fly. The details of ANS are in our WWW21 paper "Autodidactic Neurosurgeon Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning".
 
 ### PyTorch
 We modify the *forward* function in the PyTorch to partition the DNN model.
