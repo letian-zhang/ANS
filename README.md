@@ -11,4 +11,4 @@ Although we don't provide the code for TensorFlow, however you can modify the *\
 
 ### Two eaxamples:
 - vgg16
-- yolo
+- tiny yolo v2
