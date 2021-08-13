@@ -2,7 +2,7 @@
 #### Autodidactic Neurosurgeon (ANS) is an online learning module to automaticallly learn the optimal DNN partition point on-the-fly. The detials of ANS is in our WWW21 paper "Autodidactic Neurosurgeon Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning".
 
 ### PyTorch
-We modify the \tt{forward} function in the PyTorch DNN model to partition the inference.
+We modify the \tf{forward} function in the PyTorch DNN model to partition the inference.
 You can run the "vgg16.py" as an example to see the partition.
 
 ### TensorFlow 2.0+
