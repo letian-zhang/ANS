@@ -12,5 +12,9 @@ Although we don't provide the code for TensorFlow, however, you can modify the *
 ### Two examples:
 - vgg16
 - tiny yolo v2
-  - download tiny yolo weight here https://pjreddie.com/media/files/yolov2-tiny-voc.weights
-  - put yolov2-tiny-voc.weights in folder "models"
+  - Download tiny yolo weight, here https://pjreddie.com/media/files/yolov2-tiny-voc.weights
+  - Put yolov2-tiny-voc.weights in the folder "models"
+
+### How to run code:
+- First run *edge_server_main.py* on edge server
+- Then run *client_camera_main.py* on Nvidia Jetson TX2
