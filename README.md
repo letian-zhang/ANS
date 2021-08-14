@@ -12,3 +12,5 @@ Although we don't provide the code for TensorFlow, however, you can modify the *
 ### Two examples:
 - vgg16
 - tiny yolo v2
+- - download tiny yolo weight here https://pjreddie.com/media/files/yolov2-tiny-voc.weights
+- - put yolov2-tiny-voc.weights in folder "models"
